@@ -10,7 +10,7 @@ redirect_from:
 I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. 
 
 
-<br><br>
+<br>
 
 Research interests
 ======
@@ -21,7 +21,7 @@ Research interests
 •	Investigating the interplay between human genetics and environmental factors to understand their combined effects on diseases.
 
 
-<br><br>
+<br>
 
 Selected Publications
 ------
@@ -35,7 +35,7 @@ Selected Publications
 
 •	Yunlong Ma, Chunyu Deng, Yijun Zhou, Yaru Zhang, Fei Qiu, Dingping Jiang, Gongwei Zheng, **Jingjing Li**, Jianwei Shuai, Yan Zhang*, Jian Yang*, and Jianzhong Su*, Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data. ***Cell Genomics***, 2023 August 18. 3(9):100383.
 
-<br><br>
+<br>
 
 Research Fundings
 ======
