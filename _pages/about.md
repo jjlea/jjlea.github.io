@@ -9,6 +9,8 @@ redirect_from:
 
 I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. 
 
+![Photo](/images/iShot_2026-02-12_12.44.51.png)
+
 
 <br>
 
