@@ -9,29 +9,18 @@ redirect_from:
 
 I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. 
 
-<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin:20px 0;">
-
-  <!-- Left: text -->
-  <div style="flex: 1 1 520px; min-width:280px;">
-    <h2 style="margin:0 0 10px 0;">Research</h2>
-
-    <ul style="margin:0; padding-left:18px;">
-      <li>I am now a postdoctoral researcher in the Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania.</li>
-    </ul>
-
-    <p style="margin:12px 0 0 0;">
-     
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px;">
+  
+  <div style="flex: 2;">
+    <h2>About Me</h2>
+    <p>
+      I am a postdoctoral researcher at the Center for Computational Biomedicine, 
+      Department of Genetics, University of Pennsylvania. 
     </p>
-    -->
-  </div>
+    </div>
 
-  <!-- Right: image -->
-  <div style="flex: 0 0 260px; max-width:260px;">
-    <img
-      src="/images/iShot_2026-02-12_12.44.51.png"
-      alt="Profile photo"
-      style="width:100%; border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;"
-    >
+  <div style="flex: 1; min-width: 250px;">
+    <img src="/images/iShot_2026-02-12_12.44.51.png" alt="Jingjing Li" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 
 </div>
