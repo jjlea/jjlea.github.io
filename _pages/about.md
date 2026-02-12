@@ -13,7 +13,7 @@ redirect_from:
   </div>
 
   <div style="display: block;">
-    <h2 style="margin-top: 0;">About Me</h2>
+    <h2 style="margin-top: 0;">Jingjing Li</h2>
     <p style="line-height: 1.6; font-size: 1.1em;">
       I am a postdoctoral researcher in the Center for Computational Biomedicine, 
       Department of Genetics, University of Pennsylvania. 
