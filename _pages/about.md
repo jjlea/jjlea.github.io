@@ -53,7 +53,7 @@ Selected Publications
 
 Research Fundings
 ------
-•	Linking human single-cell transcriptomics and microbial genetic signals to unravel host-microbe interactions Certificate Number: 2023M732679, funded by China Postdoctoral Science Foundation. 
+•	China Postdoctoral Science Funding. 
 
 
 
