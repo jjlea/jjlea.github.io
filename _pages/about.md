@@ -9,23 +9,30 @@ redirect_from:
 
 I am now a postdoctoral research in Center for Computational Biomedicine, Department of Genetics, University of Pennsylvania. 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px;">
+<div style="overflow: hidden; margin-bottom: 20px;">
   
-  <div style="flex: 2;">
-    <h2>About Me</h2>
-    <p>
-      I am a postdoctoral researcher at the Center for Computational Biomedicine, 
+  <div style="float: left; margin-right: 30px; margin-bottom: 10px;">
+    <img src="/images/profile.jpg" alt="Jingjing Li" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+
+  <div style="display: block;">
+    <h2 style="margin-top: 0;">About Me</h2>
+    <p style="line-height: 1.6; font-size: 1.05em;">
+      I am a postdoctoral researcher in the Center for Computational Biomedicine, 
       Department of Genetics, University of Pennsylvania. 
     </p>
-    </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <img src="/images/iShot_2026-02-12_12.44.51.png" alt="Jingjing Li" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="line-height: 1.6; font-size: 1.05em;">
+      My research focuses on identifying disease-relevant genomic loci and pinpointing 
+      causal variants by integrating GWAS and other omics data. 
+      I am particularly interested in integrating human genetics and single-cell data 
+      to reveal candidate genes and their involved biological pathways.
+    </p>
   </div>
 
 </div>
 
-<br>
+<div style="clear: both;"></div>
+
 
 Research interests
 ======
