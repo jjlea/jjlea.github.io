@@ -9,7 +9,7 @@ redirect_from:
 <div style="overflow: hidden; margin-bottom: 20px;">
   
   <div style="float: right; margin-left: 30px; margin-bottom: 10px;">
-    <img src="/images/profile.jpg" alt="Jingjing Li" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/iShot_2026-02-12_12.44.51.png" alt="Jingjing Li" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 
   <div style="display: block;">
@@ -19,8 +19,6 @@ redirect_from:
       Department of Genetics, University of Pennsylvania. 
     </p>
     <p style="line-height: 1.6; font-size: 1.1em;">
-      My research focuses on identifying disease-relevant genomic loci and pinpointing 
-      causal variants by integrating GWAS and other omics data. 
     </p>
   </div>
 
